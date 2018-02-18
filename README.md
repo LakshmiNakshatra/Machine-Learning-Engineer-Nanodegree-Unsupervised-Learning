@@ -7,17 +7,17 @@ For the purposes of this project, the features 'Channel' and 'Region' will be ex
 The customer segments data consists of 440 data points 
 
 **Features**
-Fresh: annual spending (m.u.) on fresh products (Continuous)
+Fresh: annual spending on fresh products (Continuous)
 
-Milk: annual spending (m.u.) on milk products (Continuous)
+Milk: annual spending on milk products (Continuous)
 
-Grocery: annual spending (m.u.) on grocery products (Continuous)
+Grocery: annual spending on grocery products (Continuous)
 
-Frozen: annual spending (m.u.) on frozen products (Continuous)
+Frozen: annual spending on frozen products (Continuous)
 
-Detergents_Paper: annual spending (m.u.) on detergents and paper products (Continuous)
+Detergents_Paper: annual spending on detergents and paper products (Continuous)
 
-Delicatessen: annual spending (m.u.) on and delicatessen products (Continuous)
+Delicatessen: annual spending on and delicatessen products (Continuous)
 
 Channel: {Hotel/Restaurant/Cafe - 1, Retail - 2} (Nominal)
 
